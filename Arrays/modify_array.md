@@ -70,5 +70,7 @@ print(my_array[0])
 
 This code will print the following output:
 
+```
 1
 10
+```
